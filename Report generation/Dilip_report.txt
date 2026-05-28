@@ -1,0 +1,10 @@
+
+----------STUDENT REPORT CARD-----------
+Name: Dilip
+Python: 70
+Java: 90
+SQL: 50
+
+Total: 210
+
+Avarage: 70.0

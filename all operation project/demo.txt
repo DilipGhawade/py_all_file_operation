@@ -1,0 +1,2 @@
+Hello form terminal \n just trying to make file form terminal
+Welocme back again you are able to update the file by using append 
